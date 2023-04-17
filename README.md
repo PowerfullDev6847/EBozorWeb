@@ -1,0 +1,2 @@
+# EBozorWeb
+My Django Project
